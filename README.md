@@ -31,9 +31,6 @@ Hi there 👋 I'm Gian Piero Software Developer in the making with an Industrial
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpiero19&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpiero19&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiero19&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
