@@ -25,12 +25,3 @@ Hi there 👋 I'm Gian Piero Software Developer in the making with an Industrial
 
 ### Tools & Testing
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpiero19&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-</p>
