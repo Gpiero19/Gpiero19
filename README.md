@@ -2,9 +2,8 @@ Hi there 👋 I'm Gian Piero Software Developer in the making with an Industrial
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Intelligent Recruitment Pipeline**
+- 🔭 I’m currently working on [ShowFreak](https://github.com/Gpiero19/ShowFreak)
 - 🌱 I’m currently learning **TypeScript**
-- 👨‍💻 Current Project: [ShowFreak](https://github.com/Gpiero19/ShowFreak)
 - 👨‍💻 Last Project: [Frello](https://github.com/Gpiero19/Trello-project)
 - 📫 How to reach me: [canevarigian@gmail.com](mailto:canevarigian@gmail.com)
 - ⚡ Fun fact: I love videogames and outdoor activities
